@@ -6,7 +6,7 @@ Clone this repository and follow these steps to setup a basic environment for us
 - NumPy
 
 ## 1. Allocate a node
-Allocate a node and log in to that node.<be>
+Allocate a node and log in to that node.<br>
 ``` salloc --particiton=gpu-2080ti-interactive --gres=gpu:1  ```
 
 ## 2. Conda environment
