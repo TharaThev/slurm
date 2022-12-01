@@ -12,9 +12,9 @@ except:
   print("An error has occured while installing PyTorch.")
 
 if torch.cuda.is_available():
-  print("You are using GPU.")
+  print("Cuda has been installed successuflly. You are using GPU.")
 else:
-  print("You are using CPU.")
+  print("An error has occured. You are either using CPU or you had troubles installing Cuda.")
 
 try:
   import numpy
