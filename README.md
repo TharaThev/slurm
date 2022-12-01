@@ -18,4 +18,4 @@ Verfiy that the new environment was installed correctly with <br>
 ``` conda env list ```
 
 ## 3. Test the environment
-Run ``` python test_env.py``` to the whether the installation was succefull. If the installation was not successfull, you will receive error messages.
+Run ``` python test_env.py``` to the whether the installation was succeful. If the installation was not successful, you will receive error messages.
