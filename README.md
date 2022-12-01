@@ -11,9 +11,9 @@ Allocate a node and log in to that node.<be>
 
 ## 2. Conda environment
 Create the environemnt from the ```slurm_env.yml``` file. <br>
-``` conda env create -f slurm_env.yml ``` <br>
+``` conda env create -f slurm_env.yml ``` <br> <br>
 The name of this enviroment is ```slurm_env```. Use it to activate the new environment. <br>
-```conda activate slurm_env``` <br>
+```conda activate slurm_env``` <br><br>
 Verfiy that the new environment was installed correctly with <br>
 ``` conda env list ```
 
